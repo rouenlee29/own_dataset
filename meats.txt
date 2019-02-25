@@ -1,0 +1,10 @@
+Beef
+Fish
+Goat
+Lamb
+Meatball
+Pork
+Poultry
+Sausage
+Seafood
+Meat
